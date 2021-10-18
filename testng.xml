@@ -8,7 +8,8 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.test.CreditCardTest"/>
+<!--       <class name="com.test.CreditCardTest"/> -->
+      <class name="com.test.RefundPaymentTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
